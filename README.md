@@ -36,5 +36,3 @@
 
 - mapper-config.xml파일과 *Mapper.xml들을 등록
 > Mybatis는 SqlSessionFactory와 함께 사용됨
-
-## 트랜잭션 Isolation이란?
